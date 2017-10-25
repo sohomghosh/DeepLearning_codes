@@ -1,0 +1,6 @@
+##Attention within Sequences
+Attention is the idea of freeing the encoder-decoder architecture from the fixed-length internal representation.
+This is achieved by keeping the intermediate outputs from the encoder LSTM from each step of the input sequence and training 
+the model to learn to pay selective attention to these inputs and relate them to items in the output sequence.
+#Source: https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/
+
