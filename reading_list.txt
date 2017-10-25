@@ -4,8 +4,9 @@ Topics
 3) 1D Sequence Models
     Recurrent Neural Network (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
       Long Short Term Memory
-      Gated Recurrent Units 
-    Attention models etc.
+        Attention models (https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
+      Gated Recurrent Units etc.
+      
 4) Other 
   Unsupervised Learning, 
   Deep Reinforcement Learning (http://karpathy.github.io/2016/05/31/rl/) 
