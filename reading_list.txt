@@ -27,14 +27,34 @@ University Resources
 3) Satnford Deep Learning using Tensorflow http://web.stanford.edu/class/cs20si/syllabus.html
 4) Oxford deep nlp : https://github.com/oxford-cs-deepnlp-2017/lectures
 5) Stanford deep nlp Richard Socher: http://web.stanford.edu/class/cs224n/syllabus.html
+6) Ali Godse: https://www.youtube.com/watch?v=XTWPyW2mTUg&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB     https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists
+7)
 
 Code Links
-1) http://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
-2) http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-3) http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-4) http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-5) http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/
-6) http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
-7) http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
-8) http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-9) http://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
+Keras
+  1) http://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
+  2) http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
+  3) http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+  4) http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+  5) http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/
+  6) http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/
+  7) http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+  8) http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
+  9) http://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
+Tensorflow
+  1) https://gist.github.com/martinwicke/6838c23abdc53e6bcda36ed9f40cff39
+  2) https://github.com/tensorflow/tensorflow/blob/r1.2/RELEASE.md
+  3) https://www.tensorflow.org/get_started/mnist/pros
+  4) https://www.tensorflow.org/get_started/mnist/beginners
+  5) https://github.com/tensorflow/tensorflow/blob/r1.1/tensorflow/examples/tutorials/mnist/mnist_softmax.py
+  6) https://www.tensorflow.org/get_started/tflearn
+  7) https://www.tensorflow.org/get_started/summaries_and_tensorboard
+  8) https://github.com/tensorflow/tensorflow/blob/r1.1/tensorflow/tensorboard/README.md
+  9) https://github.com/tensorflow/ecosystem
+  10) https://www.tensorflow.org/get_started/embedding_viz
+  11) https://www.tensorflow.org/get_started/graph_viz
+  12) https://www.tensorflow.org/get_started/get_started
+  13) https://github.com/random-forests/tensorflow-workshop/
+  14) https://www.tensorflow.org/deploy/distributed
+  15) https://www.tensorflow.org/api_docs/python/tf/train/ClusterSpec
+  
