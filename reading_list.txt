@@ -1,12 +1,22 @@
 Topics
 1) General Deep Learning (Fully connected nets) 
 2) Image Models [2D] (Convolutional Networks) 
-3) 1D Sequence Models (Recurrent Neural Network, Long Short Term Memory, Gated Recurrent Units , Attention models etc.) and 
-4) Other (Unsupervised Learning, Deep Reinforcement Learning, Sparse coding, Slow feature analysis etc.)
+3) 1D Sequence Models
+    Recurrent Neural Network (http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+      Long Short Term Memory
+      Gated Recurrent Units 
+    Attention models etc.
+4) Other 
+  Unsupervised Learning, 
+  Deep Reinforcement Learning (http://karpathy.github.io/2016/05/31/rl/) 
+  Sparse coding
+  Slow feature analysis etc.
 5) AutoEncoders
 6) Deep Belief Networks
 7) Deep and restricted Boltzmann Machines
 8) Generative Adversarial Networks
+9) Deep Learning for NLP https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf , http://u.cs.biu.ac.il/~yogo/nnlp.pdf
+10) 
 
 
 Book
@@ -28,7 +38,7 @@ University Resources
 4) Oxford deep nlp : https://github.com/oxford-cs-deepnlp-2017/lectures
 5) Stanford deep nlp Richard Socher: http://web.stanford.edu/class/cs224n/syllabus.html
 6) Ali Godse: https://www.youtube.com/watch?v=XTWPyW2mTUg&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB     https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists
-7)
+7) Advanced Deep NLP: http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015
 
 Code Links
 Keras
