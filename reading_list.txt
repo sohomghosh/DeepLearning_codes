@@ -11,10 +11,10 @@ Topics
   Deep Reinforcement Learning (http://karpathy.github.io/2016/05/31/rl/) 
   Sparse coding
   Slow feature analysis etc.
-5) AutoEncoders
+5) AutoEncoders (http://www.deeplearningbook.org/contents/autoencoders.html)
 6) Deep Belief Networks
-7) Deep and restricted Boltzmann Machines
-8) Generative Adversarial Networks
+7) Deep and restricted Boltzmann Machines (http://www.deeplearningbook.org/contents/generative_models.html)
+8) Generative Adversarial Networks (http://www.deeplearningbook.org/contents/generative_models.html)
 9) Deep Learning for NLP https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf , http://u.cs.biu.ac.il/~yogo/nnlp.pdf
 10) 
 
