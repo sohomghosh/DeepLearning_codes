@@ -22,15 +22,17 @@ Topics
 
 Book
 1) deeplearningbook.org
+2)
 
 Research papers
 1) http://deeplearning.net/reading-list/
+2)
 
 Videos
 1) Oxford Deep Learning YouTube Playlist https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 2) Coursera Neural Networks for Machine Learning https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
 3) AV Videos Playlist https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/
-
+4)
 
 University Resources
 1) Berkeley CS 294: Deep Reinforcement Learning, Fall 2017 http://rll.berkeley.edu/deeprlcourse/
@@ -40,6 +42,8 @@ University Resources
 5) Stanford deep nlp Richard Socher: http://web.stanford.edu/class/cs224n/syllabus.html
 6) Ali Godse: https://www.youtube.com/watch?v=XTWPyW2mTUg&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB     https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists
 7) Advanced Deep NLP: http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015
+8) http://videolectures.net/deeplearning2016_montreal/
+9) 
 
 Code Links
 Keras
@@ -68,4 +72,5 @@ Tensorflow
   13) https://github.com/random-forests/tensorflow-workshop/
   14) https://www.tensorflow.org/deploy/distributed
   15) https://www.tensorflow.org/api_docs/python/tf/train/ClusterSpec
-  
+Others
+  1)
