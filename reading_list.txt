@@ -17,7 +17,8 @@ Topics
 7) Deep and restricted Boltzmann Machines (http://www.deeplearningbook.org/contents/generative_models.html)
 8) Generative Adversarial Networks (http://www.deeplearningbook.org/contents/generative_models.html)
 9) Deep Learning for NLP https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf , http://u.cs.biu.ac.il/~yogo/nnlp.pdf
-10) 
+10) Capsule Network : <New CNN>
+11) 
 
 
 Book
