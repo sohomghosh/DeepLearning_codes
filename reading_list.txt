@@ -73,5 +73,6 @@ Tensorflow
   13) https://github.com/random-forests/tensorflow-workshop/
   14) https://www.tensorflow.org/deploy/distributed
   15) https://www.tensorflow.org/api_docs/python/tf/train/ClusterSpec
+  *V.Imp*16) https://github.com/nlintz/TensorFlow-Tutorials
 Others
   1)
