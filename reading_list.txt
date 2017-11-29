@@ -74,5 +74,6 @@ Tensorflow
   14) https://www.tensorflow.org/deploy/distributed
   15) https://www.tensorflow.org/api_docs/python/tf/train/ClusterSpec
   *V.Imp*16) https://github.com/nlintz/TensorFlow-Tutorials
+  17) https://github.com/PacktPublishing/Machine-Learning-with-TensorFlow-1.x
 Others
   1)
