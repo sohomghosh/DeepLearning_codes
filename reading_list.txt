@@ -44,7 +44,9 @@ University Resources
 6) Ali Godse: https://www.youtube.com/watch?v=XTWPyW2mTUg&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB     https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A/playlists
 7) Advanced Deep NLP: http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015
 8) http://videolectures.net/deeplearning2016_montreal/
-9) 
+9) Theories of Deep Learning https://stats385.github.io/
+10) http://course.fast.ai/lessons/lesson0.html
+11) http://ufldl.stanford.edu/tutorial/
 
 Code Links
 Keras
