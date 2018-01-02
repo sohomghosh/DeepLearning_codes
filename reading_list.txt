@@ -47,6 +47,7 @@ University Resources
 9) Theories of Deep Learning https://stats385.github.io/
 10) http://course.fast.ai/lessons/lesson0.html
 11) http://ufldl.stanford.edu/tutorial/
+12) http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html
 
 Code Links
 Keras
