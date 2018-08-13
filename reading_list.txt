@@ -79,4 +79,5 @@ Tensorflow
   *V.Imp*16) https://github.com/nlintz/TensorFlow-Tutorials
   17) https://github.com/PacktPublishing/Machine-Learning-with-TensorFlow-1.x
 Others
-  1)
+  1) https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/
+  2) 
